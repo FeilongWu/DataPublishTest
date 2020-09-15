@@ -6,4 +6,5 @@ def Vis(x,y):
     plt.scatter(x,y)
     plt.xlabel('x',fontsize='large')
     plt.ylabel('y',fontsize='large')
+    plt.title('Scatter Plot')
     plt.show()
