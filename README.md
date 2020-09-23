@@ -9,4 +9,4 @@ An example plot of the generated data is shown below.
 
 ## Citation
 
-Wu, Feilong (2020) DataPublishTest, GitHub. V.1.1 https://dx.doi.org/10.5281/zenodo.4032206 Retrieved 14:56, Sep, 19, 2020 (GMT)
+Wu, Feilong (2020) DataPublishTest, GitHub. V.1.2 https://dx.doi.org/10.5281/zenodo.4032206 Retrieved 22:56, Sep, 22, 2020 (GMT)
