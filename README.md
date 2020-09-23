@@ -13,14 +13,14 @@ Wu, Feilong (2020) DataPublishTest, GitHub. V.1.2 https://dx.doi.org/10.5281/zen
 
 # Data Citation
 
-##Cite random integers as
+## Cite random integers as
 
 Wu, Feilong (2020): data_x.txt. figshare. Dataset. https://doi.org/10.6084/m9.figshare.12949601.v1 Retrieved 22:53, Sep, 22, 2020 (GMT)
 
-##Cite numbers after linear transform as
+## Cite numbers after linear transform as
 
 Wu, Feilong (2020): output. figshare. Dataset. https://doi.org/10.6084/m9.figshare.12949619.v1 Retrieved 22:57, Sep, 22, 2020 (GMT)
 
-##Cite scatter plot as
+## Cite scatter plot as
 
 Wu, Feilong (2020): Scatter Plot of the random integers and their linear transform. figshare. Figure. https://doi.org/10.6084/m9.figshare.12956543.v1 Retrieved 22:58, Sep, 22, 2020 (GMT)
