@@ -9,7 +9,7 @@ An example plot of the generated data is shown below.
 
 # Software Citation
 
-Wu, Feilong (2020) DataPublishTest, GitHub. V.1.2 https://dx.doi.org/10.5281/zenodo.4045171 Retrieved 22:56, Sep, 22, 2020 (GMT)
+Wu, Feilong (2020) DataPublishTest, GitHub. V.1.2 https://dx.doi.org/10.5281/zenodo.4045295 Retrieved 23:25, Sep, 22, 2020 (GMT)
 
 # Data Citation
 
