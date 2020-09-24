@@ -7,7 +7,12 @@ An example plot of the generated data is shown below.
 
 <img src='Image/Scatter_Plot.png' width=500>
 
-
+## Installation
+- Clone this repo:
+```bash
+git clone https://github.com/FeilongWu/DataPublishTest.git
+cd DataPublishTest
+```
 
 ## Software Citation
 
