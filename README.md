@@ -16,18 +16,18 @@ cd DataPublishTest
 
 ## Software Citation
 
-Wu, Feilong (2020) DataPublishTest, GitHub. V.1.3 https://dx.doi.org/10.5281/zenodo.4045295 Retrieved 23:25, Sep, 22, 2020 (GMT)
+Wu, Feilong (2020) DataPublishTest, GitHub. V.1.3 https://dx.doi.org/10.5281/zenodo.4045295
 
 ## Data Citation
 
 ### Cite random integers
 
-Wu, Feilong (2020): data_x.txt. figshare. Dataset. https://doi.org/10.6084/m9.figshare.12949601.v1 Retrieved 22:53, Sep, 22, 2020 (GMT)
+Wu, Feilong (2020): data_x.txt. figshare. Dataset. https://doi.org/10.6084/m9.figshare.12949601.v1
 
 ### Cite numbers after linear transform
 
-Wu, Feilong (2020): output. figshare. Dataset. https://doi.org/10.6084/m9.figshare.12949619.v1 Retrieved 22:57, Sep, 22, 2020 (GMT)
+Wu, Feilong (2020): output. figshare. Dataset. https://doi.org/10.6084/m9.figshare.12949619.v1
 
 ### Cite scatter plot
 
-Wu, Feilong (2020): Scatter Plot of the random integers and their linear transform. figshare. Figure. https://doi.org/10.6084/m9.figshare.12956543.v1 Retrieved 22:58, Sep, 22, 2020 (GMT)
+Wu, Feilong (2020): Scatter Plot of the random integers and their linear transform. figshare. Figure. https://doi.org/10.6084/m9.figshare.12956543.v1
