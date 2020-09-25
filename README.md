@@ -16,7 +16,7 @@ cd DataPublishTest
 
 ## Software Citation
 
-Wu, Feilong (2020) DataPublishTest, GitHub. V.1.4 https://dx.doi.org/10.5281/zenodo.4048722
+Wu, Feilong (2020) DataPublishTest, GitHub. V.1.5 https://dx.doi.org/10.5281/zenodo.4049671
 
 ## Data Citation
 
