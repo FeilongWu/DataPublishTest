@@ -1,9 +1,9 @@
 # DataPublishTest
 [![DOI](https://zenodo.org/badge/295092084.svg)](https://zenodo.org/badge/latestdoi/295092084) 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FeilongWu/DataPublishTest/master)
+
 
 This repository contains three Python scripts, all of which should be executed in the following order. Use *genRandom.py* to generate pre-specified number of random intergers in a pre-specified range. The result will be outputted in a text file. A sample output file can be found here [here](https://dx.doi.org/10.6084/m9.figshare.12949601). Use *LinMap.py* to linearly transform a list of numbers as input with pre-specified slope and intercept. The output will be saved in a text file. An example output file can be found [here](https://dx.doi.org/10.6084/m9.figshare.12949619). Use *Vis.py* to visualize a list of numbers before and after linear transform in a scatter plot. The scatter plot will be saved as a file. A sample plot can be found [here](https://dx.doi.org/10.6084/m9.figshare.12956543). To learn more, check out this [Jupyter Notebook](https://github.com/FeilongWu/DataPublishTest/blob/master/demo.ipynb).
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FeilongWu/DataPublishTest/master)
 An example plot of the generated data is shown below.
 
 <img src='Image/Scatter_Plot.png' width=500>
