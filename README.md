@@ -20,7 +20,7 @@ python -m venv dsci560H4
 .\dsci560H4\Scripts\activate
 ```
 
-- Open notebook in binder:
+- Open notebook in binder:<br/>
 Click this badget [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FeilongWu/DataPublishTest/master) to open binder in a new tab. Jupyter notebook will be automatically launched when the environment is ready. See the progress in the log.
 
 ## Software Citation
