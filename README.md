@@ -1,6 +1,6 @@
 # DataPublishTest
 
-[![DOI](https://zenodo.org/badge/295092084.svg)](https://zenodo.org/badge/latestdoi/295092084) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FeilongWu/DataPublishTest/master)
+[![DOI](https://zenodo.org/badge/295092084.svg)](https://zenodo.org/badge/latestdoi/295092084)
 
 This repository contains three Python scripts, all of which should be executed in the following order. Use *genRandom.py* to generate pre-specified number of random intergers in a pre-specified range. The result will be outputted in a text file. A sample output file can be found here [here](https://dx.doi.org/10.6084/m9.figshare.12949601). Use *LinMap.py* to linearly transform a list of numbers as input with pre-specified slope and intercept. The output will be saved in a text file. An example output file can be found [here](https://dx.doi.org/10.6084/m9.figshare.12949619). Use *Vis.py* to visualize a list of numbers before and after linear transform in a scatter plot. The scatter plot will be saved as a file. A sample plot can be found [here](https://dx.doi.org/10.6084/m9.figshare.12956543). To learn more, check out this [Jupyter Notebook](https://github.com/FeilongWu/DataPublishTest/blob/master/demo.ipynb).
 
@@ -14,6 +14,14 @@ An example plot of the generated data is shown below.
 git clone https://github.com/FeilongWu/DataPublishTest.git
 cd DataPublishTest
 ```
+- Create a virtual environment (named dsci560H4) and activate it:
+```bash
+python -m venv dsci560H4
+.\dsci560H4\Scripts\activate
+```
+
+- Open notebook in binder:
+Click this badget [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FeilongWu/DataPublishTest/master) to open binder in a new tab. Jupyter notebook will be automatically launched when the environment is ready. See the progress in the log.
 
 ## Software Citation
 
