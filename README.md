@@ -8,7 +8,7 @@ An example plot of the generated data is shown below.
 
 <img src='Image/Scatter_Plot.png' width=500>
 
-## Installation
+## Usage
 - Clone this repo:
 ```bash
 git clone https://github.com/FeilongWu/DataPublishTest.git
@@ -19,7 +19,22 @@ cd DataPublishTest
 python -m venv dsci560H4
 .\dsci560H4\Scripts\activate
 ```
-
+- Install dependency(ies):
+```bash
+pip intsall matplotlab
+```
+- Generate 1000 random numbers:
+```bash
+python genRandom.py
+```
+- Linearly transform the random numbers:
+```bash
+python LinMap.py
+```
+- Visualize random numbers and their linear transform:
+```bash
+python Vis.py
+```
 - Open notebook in binder:<br/>
 Click this badget [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FeilongWu/DataPublishTest/master) to open binder in a new tab. Jupyter notebook will be automatically launched when the environment is ready. See the progress in the log.
 
