@@ -15,7 +15,7 @@ An example plot of the generated data is shown below.
 ### 2. Activate the environment and install ONLY the dependencies you need to execute the random number generator script of Homework 2.
 The random number gererator uses Python standard libraries only, so no dependency is required. Python3.8 is required to execute the random number generator. Other versions may work without a guarantee.
 ### 3. Take a screenshot of your terminal with the activated environment after running the script for the number generator.
-<img src='Image/activated_environment.png' width=500>
+<img src='Image/activated_environment.png' width=800>
 ### Extract the dependencies of your virtual environment
 #### a. Compare the packages that you manually installed versus the dependency list you extracted.
 
