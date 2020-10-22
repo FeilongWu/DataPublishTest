@@ -27,7 +27,7 @@ The only dependency installed manually is "matplotlib". There are dependencies b
 <img src='Image/4a.PNG' width=800>
 <img src='Image/4a1.PNG' width=500>
 #### c. Upload your extracted dependencies to GitHub following the naming conventions taught in class. 
-The uploaded extracted list is named as "requirements.txt"
+The uploaded extracted list is named as "requirements.txt".
 <img src='Image/4a1.PNG' width=500>
 
 ## Usage
