@@ -43,7 +43,7 @@ python -m venv dsci560H4
 ```
 - Install dependency(ies):
 ```bash
-pip intsall matplotlab
+pip install requirements.txt
 ```
 - Generate 1000 random numbers:
 ```bash
