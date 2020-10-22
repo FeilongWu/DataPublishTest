@@ -25,10 +25,10 @@ The random number gererator uses Python standard libraries only, so no external 
 #### a. Compare the packages that you manually installed versus the dependency list you extracted.
 The only dependency installed manually is "matplotlib". There are dependencies besides "matplotlib" on the extracted list, which are the dependencies that "matplotlib" needs to use. First graph is dependency installation and the second graph is the extracted list.
 <img src='Image/4a.PNG' width=800>
-<img src='Image/4a1.PNG' width=600>
+<img src='Image/4a1.PNG' width=500>
 #### c. Upload your extracted dependencies to GitHub following the naming conventions taught in class. 
 The uploaded extracted list is named as "requirements.txt"
-<img src='Image/4a1.PNG' width=600>
+<img src='Image/4a1.PNG' width=500>
 
 ## Usage
 - Clone this repo:
