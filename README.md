@@ -12,10 +12,12 @@ An example plot of the generated data is shown below.
 
 ### 1. In your local repository from homework 2, create a blank virtual environment and name it dsci560H4.
 The virtual environment is created under the local repository.
+
 <img src='Image/1.PNG' width=800>
 
 ### 2. Activate the environment and install ONLY the dependencies you need to execute the random number generator script of Homework 2.
 The random number gererator uses Python standard libraries only, so no external dependency is required. Python3.8 is required to execute the random number generator. Other versions may work without a guarantee.
+
 <img src='Image/2.PNG' width=800>
 ### 3. Take a screenshot of your terminal with the activated environment after running the script for the number generator.
 <img src='Image/activated_environment.png' width=800>
@@ -24,10 +26,12 @@ The random number gererator uses Python standard libraries only, so no external 
 
 #### a. Compare the packages that you manually installed versus the dependency list you extracted.
 The only dependency installed manually is "matplotlib". There are dependencies besides "matplotlib" on the extracted list, which are the dependencies that "matplotlib" needs to use. First graph is dependency installation and the second graph is the extracted list.
+
 <img src='Image/4a.PNG' width=800>
 <img src='Image/4a1.PNG' width=500>
 #### c. Upload your extracted dependencies to GitHub following the naming conventions taught in class. 
 The uploaded extracted list is named as "requirements.txt".
+
 <img src='Image/4a1.PNG' width=500>
 
 ## Usage
