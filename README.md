@@ -24,6 +24,9 @@ The random number gererator uses Python standard libraries only, so no external 
 The random number generator (genRandom.py) is exucuted under the virtual environment whose name is shown in the parentheses.
 <img src='Image/activated_environment.png' width=800>
 
+Enter "data_x.txt" to open the generated file to check all the generated random numbers.
+<img src='Image/random_num.PNG' width=800>
+
 ### 4. Extract the dependencies of your virtual environment
 
 #### a. Compare the packages that you manually installed versus the dependency list you extracted.
