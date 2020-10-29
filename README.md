@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ```
 - If you do not have "requirements.txt" under your working directory, you can run the commands below to install the dependencies and extract a dependency list:
  ```bash
-pip intsall matplotlib
+pip install matplotlib
 pip freeze > requirements.txt
 ```
 - Assume that you have "genRandom.py", "LinMap.py", and "Vis.py" under your working directory. Generate 1000 random numbers:
