@@ -51,6 +51,7 @@ git clone https://github.com/FeilongWu/DataPublishTest.git
 ```bash
 cd "C://Users//your//name//DataPublishTest"
 ```
+
 - If you have <strong>venv</strong> installed, please skip. Use the following command to install  <strong>venv</strong>. This requires Python3.8:
 ```bash
 pip install --user virtualenv
