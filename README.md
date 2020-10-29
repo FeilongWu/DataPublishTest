@@ -25,7 +25,7 @@ The random number generator (genRandom.py) is exucuted under the virtual environ
 <img src='Image/activated_environment.png' width=800>
 
 Enter "data_x.txt" to open the generated file to check all the generated random numbers.
-<img src='Image/random_num.PNG' width=800>
+<img src='Image/random_num.jpg' width=800>
 
 ### 4. Extract the dependencies of your virtual environment
 
