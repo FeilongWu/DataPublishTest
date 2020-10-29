@@ -21,6 +21,7 @@ The random number gererator uses Python standard libraries only, so no external 
 <img src='Image/2.PNG' width=800>
 
 ### 3. Take a screenshot of your terminal with the activated environment after running the script for the number generator.
+The random number generator (genRandom.py) is exucuted under the virtual environment whose name is shown in the parentheses.
 <img src='Image/activated_environment.png' width=800>
 
 ### 4. Extract the dependencies of your virtual environment
