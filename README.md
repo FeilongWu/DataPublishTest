@@ -41,10 +41,19 @@ The uploaded extracted list is named as "requirements.txt".
 <img src='Image/4a1.PNG' width=500>
 
 ## Usage
-- Clone this repo:
+### Use Microsoft Windows 10 as the operating system.
+- Clone this repo using bash:
 ```bash
 git clone https://github.com/FeilongWu/DataPublishTest.git
-cd DataPublishTest
+```
+### All the commands below are executed using Command Prompt.
+-- If you want to create a virtual ennvironment under the directory of the cloned repository, you need to go to the directory you just cloned. The directory may vary for differen users. An example is shown below:
+```bash
+cd "C://Users//your//name//DataPublishTest"
+```
+- If you have <strong>venv</strong> installed, please skip. Use the following command to install  <strong>venv</strong>. This requires Python3.8:
+```bash
+pip install --user virtualenv
 ```
 - Create a virtual environment (named dsci560H4) and activate it:
 ```bash
@@ -55,7 +64,12 @@ python -m venv dsci560H4
 ```bash
 pip install -r requirements.txt
 ```
-- Generate 1000 random numbers:
+- If you do not have "requirements.txt" under your working directory, you can run the commands below to install the dependencies and extract a dependency list:
+ ```bash
+pip intsall matplotlib
+pip freeze > requirements.txt
+```
+- Assume that you have "genRandom.py", "LinMap.py", and "Vis.py" under your working directory. Generate 1000 random numbers:
 ```bash
 python genRandom.py
 ```
