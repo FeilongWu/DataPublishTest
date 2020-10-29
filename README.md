@@ -47,7 +47,7 @@ The uploaded extracted list is named as "requirements.txt".
 git clone https://github.com/FeilongWu/DataPublishTest.git
 ```
 ### All the commands below are executed using Command Prompt.
--- If you want to create a virtual ennvironment under the directory of the cloned repository, you need to go to the directory you just cloned. The directory may vary for differen users. An example is shown below:
+- If you want to create a virtual ennvironment under the directory of the cloned repository, you need to go to the directory you just cloned. The directory may vary for differen users. An example is shown below:
 ```bash
 cd "C://Users//your//name//DataPublishTest"
 ```
